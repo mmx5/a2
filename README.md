@@ -11,7 +11,7 @@
 
 ***All this text is important***
 
-> Pardon my French
+> Pardon my French dooo
 
 Some basic Git commands are:
 ```
